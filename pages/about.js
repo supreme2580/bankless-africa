@@ -19,7 +19,7 @@ export default function about() {
             <h1 className="text-white text-center font-bold text-xl sm:text-4xl md:text-6xl">About Bankless Africa</h1>
             <p className="text-white text-center font-light text-sm sm:text-base md:text-lg mt-1">We are on a quest to help onboard 1 billion Africans to crypto.</p>
           </div>
-          <div className="bg-aboutBg1 min-w-screen h-auto bg-100% bg-no-repeat bg-center -mt-2 md:mt-6 pt-20 pb-32 sm:pt-40 sm:pb-52 md:pt-36 md:pb-64
+          <div className="bg-aboutBg1 min-w-screen h-auto bg-100% bg-no-repeat bg-center -mt-2 md:mt-6 pt-20 pb-32 sm:pt-40 sm:pb-52 md:pt-36 md:pb-64 lg:px-24
           xl:pb-72 2xl:pb-80 px-8">
             <h1 className="text-white text-center font-bold text-xl sm:text-4xl md:text-6xl">We are on a quest to help 
             onboard <span className="text-red-600">1 billion</span> Africans to crypto.</h1>
