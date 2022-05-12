@@ -43,7 +43,7 @@ const Footer = () => {
       </div>
 
       <div className='xl:hidden'>
-        <p className='text-center text-base md:text-lg lg:text-2xl font-normal lg:px-20'>
+        <p className='text-center text-base md:text-lg lg:text-2xl font-normal'>
           Bankless Africa also operates as a development consultancy with the
           express purpose of identifying, supporting and executing various
           projects and tactics to accelerate African Development through web 3.0
