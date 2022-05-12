@@ -68,7 +68,7 @@ export default function about() {
               </form>
             </div>
         </div>
-        <div className="bg-red-600 flex flex-col sm:flex-row justify-between sm:items-center sm:space-x-10 px-6 sm:px-20 py-10">
+        <div className="bg-red-600 flex flex-col sm:flex-row justify-between sm:items-center sm:space-x-10 px-6 sm:px-20 lg:px-24 py-10">
             <div>
               <h2 className="text-white text-3xl lg:text-5xl sm:mt-5">Join Us</h2>
               <div className="text-white text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl mt-5">Our community is always open to new members</div>
