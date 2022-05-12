@@ -8,7 +8,7 @@ import telegram from '../../asset/Images/telegram.png'
 const Footer = () => {
   return (
     <div className='bg-black text-white items-center px-14 py-4 xl:px-10'>
-      <header className='items-center mx-20 xl:mx-6 2xl:mx-20 xl:mt-14 '>
+      <header className='items-center mx-20 md:mx-0 xl:mx-4 2xl:mx-20 xl:mt-14 '>
         <Image src={logo} alt='footer' />
       </header>
       <div className="hidden xl:flex flex-row items-center justify-between xl:mt-12 xl:mx-10 2xl:mx-24 xl:gap-20">

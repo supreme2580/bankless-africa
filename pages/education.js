@@ -15,7 +15,7 @@ const Education = () => {
                 <h1 className="text-white px-2 sm:px-10 pb-5 sm:pb-10 sm:text-lg xl:text-xl 2xl:text-4xl md:pt-0 lg:pt-5">Upcoming Podcast</h1>
                 <UpcomingCards />
             </div>
-            <div className="bg-black">
+            <div className="bg-black pb-10">
                 <h1 className="text-white px-2 sm:px-10 pb-5 sm:pb-10 sm:text-lg xl:text-xl 2xl:text-4xl md:pt-0 lg:pt-5">Past Podcast</h1>
                 <PastCard />
                 <div className="w-full flex justify-center"><button className="bg-red-600 text-white rounded-lg p-3">See more</button></div>
