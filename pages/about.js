@@ -43,7 +43,7 @@ export default function about() {
             </div>
           </div> 
         </div>
-        <div className="flex justify-center mb-10 mx-16 md:mx-10">
+        <div className="flex justify-center mb-10 mx-16 md:mx-10 lg:mx=20">
           <div className="flex flex-col sm:flex-row md:max-w-5xl justify-between">
           <div className="bg-darkBlack text-white text-center px-5 py-10 mx-4 flex flex-col flex-1 rounded-xl">
               <h1 className="text-white text-3xl lg:text-5xl">Mission</h1>
