@@ -16,15 +16,15 @@ const Card = () => {
     <div className="bg-zinc-800 rounded-xl w-64 xl:w-96">
       <div className=""><Image src={card2} layout="responsive" width={200} height={150} /></div>
       <div className="px-4 pb-2">
-        <h2 className="text-white font-normal text-lg">Learn Crypto</h2>
-        <p className="text-white font-light text-base">Start your crypto journey with our easy to understand educated resources.</p>
+        <h2 className="text-white font-normal text-lg">Social Impact</h2>
+        <p className="text-white font-light text-base">We want a better world for everyone, especially the less fortunate and vulnerable communities.</p>
       </div>
     </div>
     <div className="bg-zinc-800 rounded-xl w-64 xl:w-96">
       <div className=""><Image src={card3} layout="responsive" width={200} height={150} /></div>
       <div className="px-4 pb-2">
-        <h2 className="text-white font-normal text-lg">Learn Crypto</h2>
-        <p className="text-white font-light text-base">Start your crypto journey with our easy to understand educated resources.</p>
+        <h2 className="text-white font-normal text-lg">News</h2>
+        <p className="text-white font-light text-base">Stay up to date with well curated news about crypto and web3 around Africa. </p>
       </div>
     </div>
   </div>
